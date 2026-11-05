@@ -4,7 +4,7 @@ status: experimental
 description: Detects a Kerberos service ticket requested with RC4 encryption, a sign of Kerberoasting.
 references:
   - https://attack.mitre.org/techniques/T1558/003/
-author: Camila
+author: camilamorei
 date: 2026-11-05
 tags:
   - attack.credential-access
